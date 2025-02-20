@@ -1,0 +1,4 @@
+pangaeapy
+pandas
+numpy
+plotly
