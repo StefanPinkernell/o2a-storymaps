@@ -2,3 +2,6 @@ pangaeapy
 pandas
 numpy
 plotly
+plotly
+ipywidgets
+ipyleaflet
